@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  host_name: MyString
+  ip_address: MyString
+  mac_address: MyString
+
+two:
+  type: 
+  host_name: MyString
+  ip_address: MyString
+  mac_address: MyString

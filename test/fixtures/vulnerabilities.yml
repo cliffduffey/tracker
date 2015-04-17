@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: MyString
+  finding_details: MyString
+  comments: MyText
+  severity_override: MyString
+  severity_justification: MyText
+  vulnerability_number: MyString
+  severity: MyString
+  group_title: MyString
+  rule_id: MyString
+  rule_ver: MyString
+  rule_title: MyString
+  vuln_discussion: MyText
+  ia_controls: MyString
+  check_content: MyText
+  fix_text: MyText
+  cci_ref: MyString
+  checklist_id: 
+  asset_id: 
+
+two:
+  status: MyString
+  finding_details: MyString
+  comments: MyText
+  severity_override: MyString
+  severity_justification: MyText
+  vulnerability_number: MyString
+  severity: MyString
+  group_title: MyString
+  rule_id: MyString
+  rule_ver: MyString
+  rule_title: MyString
+  vuln_discussion: MyText
+  ia_controls: MyString
+  check_content: MyText
+  fix_text: MyText
+  cci_ref: MyString
+  checklist_id: 
+  asset_id: 
